@@ -1,0 +1,61 @@
+header {
+  background-color: rgba(133, 238, 203, 0.952);
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+#navbar {
+  font-size: 50px;
+}
+
+body {
+  margin-top: 100px;
+}
+
+section {
+  background-color: rgb(235, 203, 215);
+  width: 75%;
+  margin: auto;
+}
+
+p {
+  text-align: justify;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+  margin-bottom: 0px;
+}
+
+img {
+  max-width: 200px;
+  float: left;
+  margin: 15px;
+}
+
+.date {
+  text-align: center;
+  font-size: 30px;
+  margin-top: 0px;
+}
+
+.divider {
+  width: 100%;
+  height: 3px;
+  background-color: black;
+}
+
+p.author {
+  text-align: right;
+  font-style: italic;
+  text-transform: capitalize;
+}
+
+img.right {
+  float: right;
+  max-width: 150px;
+}
